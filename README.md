@@ -28,4 +28,4 @@ You'll need [_Android Debug Bridge (adb)_](https://developer.android.com/studio/
 
 ## Release
 
-1. After development, compress the _Upload apk to Device.app_ and commit the __Upload apk to Device.zip_.
+1. After development, compress the _Upload apk to Device.app_ and commit the _Upload apk to Device.zip_.
