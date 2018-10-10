@@ -21,4 +21,11 @@ You'll need [_Android Debug Bridge (adb)_](https://developer.android.com/studio/
 2. Open _Upload apk to Device.scpt_ in _Script Editor_.
 3. Edit Apple Script.
 4. Go to _File > Export..._, choose _Application_ as _File Format_ and click _Save_.
+5. Go to file _Upload apk to Device.app_, right-click on it and choose _Show Package Contents_.
+6. Go to _Resources_ folder and replace _droplet.icns_ with the one from root of repo.
 5. Have fun with _Upload apk to Device.app_.
+
+
+## Release
+
+1. After development, compress the _Upload apk to Device.app_ and commit the __Upload apk to Device.zip_.
