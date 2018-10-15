@@ -26,11 +26,11 @@
 	<key>CFBundleIconFile</key>
 	<string>droplet</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.ScriptEditor.id.Upload-apk-to-Device</string>
+	<string>com.apple.ScriptEditor.id.Upload-APK-or-IPA-to-Device</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Upload apk to Device</string>
+	<string>Upload APK or IPA to Device</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -57,9 +57,9 @@
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
-		<real>427</real>
+		<real>377</real>
 		<key>savedFrame</key>
-		<string>78 161 700 672 0 0 1440 877 </string>
+		<string>0 191 700 672 0 0 1440 877 </string>
 		<key>selectedTab</key>
 		<string>description</string>
 	</dict>
